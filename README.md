@@ -56,21 +56,23 @@ I specialize in:
 ## 🎓 Education
 
 ### **Bachelor in Robotics / Computer Science**  
-*(Напиши здесь свой университет, могу оформить если скажешь название)*  
-- Focus: automation, software engineering, microcontrollers, algorithms  
+*Vysoká škola báňská - Technická univerzita Ostrava*
+
+*International Information Technologies University*
+
 
 ---
 
 ## 🔗 Contacts
 
 ### 📬 Gmail  
-**[your.email@gmail.com](mailto:aks566030@gmail.com)**
+**[gmail](mailto:aks566030@gmail.com)**
 
 ### 💬 Telegram  
-**[@yourtelegram](https://t.me/ThakS0129)**
+**[telegram](https://t.me/ThakS0129)**
 
 ### 💼 LinkedIn  
-**[Your LinkedIn Profile](https://www.linkedin.com/in/akzhol-sanat-115749323/)**
+**[LinkedIn Profile](https://www.linkedin.com/in/akzhol-sanat-115749323/)**
 
 ---
 
@@ -85,7 +87,10 @@ I specialize in:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ### 💻 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Russian](https://img.shields.io/badge/Russian-Native-blue)
+![English](https://img.shields.io/badge/English-Intermediate-yellow)
+![Czech](https://img.shields.io/badge/Czech-Beginner-green)
+
 
 ---
 
