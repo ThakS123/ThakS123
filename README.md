@@ -37,8 +37,15 @@ I specialize in:
 
 
 ### **Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
@@ -76,26 +83,19 @@ I specialize in:
 
 ---
 
-## ✨ Animated Stats & Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
 ### 🔥 Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ### 💻 Top Languages  
 ![Russian](https://img.shields.io/badge/Russian-Native-blue)
 ![English](https://img.shields.io/badge/English-Intermediate-yellow)
-![Czech](https://img.shields.io/badge/Czech-Beginner-green)
+![Czech](https://img.shields.io/badge/Czech-Intermediate-green)
 
 
 ---
 
 ## 🧩 Fun Animation
-<img src="https://raw.githubusercontent.com/itsmat/itsmat/master/assets/giphy.gif" width="300px">
+<img src="(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWgzanpodGE3dGdvbHZoMTN4aDQxd2lrdm5tYmE2OHdhMTgxd2pldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v6HmjWFF80ByC2JcRl/giphy.gif)">
 
 ---
 
